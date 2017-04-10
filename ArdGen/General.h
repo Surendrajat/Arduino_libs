@@ -17,4 +17,4 @@ public:
 	void digitalWriteArray(int pins[], int vals[]);
 };
 
-#endif /* GENERAL_H_ */
+#endif

@@ -16,4 +16,3 @@ void General::digitalWriteArray(int pins[], int vals[]){
 		digitalWrite(pins[i], vals[i]);
 	}
 }
-//hello
