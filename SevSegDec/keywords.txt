@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For SevSegDec
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SevSegDec	KEYWORD1	SevSegDec
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initz	KEYWORD2
+count	KEYWORD2
+test	KEYWORD2
+display	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
